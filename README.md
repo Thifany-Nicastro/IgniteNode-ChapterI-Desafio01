@@ -1,4 +1,4 @@
-# Desafio 01 - Conceitos do Node.js
+# Desafio 01 - Conceitos do Node.js :rocket: :purple_heart:
 
 ## :dart: Objetivo
 
@@ -25,3 +25,22 @@ Criar uma aplicação para gerenciar *todos* de usuários.
 - [x] Should not be able to mark a non existing todo as done
 - [x] Should be able to delete a todo
 - [x] Should not be able to delete a non existing todo
+
+## :computer: Instalação ##
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/Thifany-Nicastro/IgniteNode-Desafio01.git
+
+# Entre na pasta
+$ cd IgniteNode-Desafio01
+
+# Instale as dependências
+$ yarn ou yarn install
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn dev
+
+# O servidor inciará na porta:3333
+acesse <http://localhost:3333>
+```
